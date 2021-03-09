@@ -1,0 +1,141 @@
+[
+	{
+		"id": 1,
+		"name": "Leonel Messi",
+		"club": "Barcelona",
+		"salary": 8550000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/lionel-andres-messi_1548_56-ub-800.webp"
+	},
+	{
+		"id": 2,
+		"name": "Neymar Jr",
+		"club": "Paris Saint-Germain",
+		"salary": 5250000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/neymar-da-silva-santos-junior_9732_212-ub-800.webp"
+	},
+	{
+		"id": 3,
+		"name": "Mohammad Salah",
+		"club": "Liverpool Fc",
+		"salary": 2240000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/mohamed-salah_16425_247-ub-800.webp"
+	},
+	{
+		"id": 4,
+		"name": "Kylian Mbappe",
+		"club": "Paris Saint-Germain",
+		"salary": 1950000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/kylian-mbappe_258602_212-ub-800.webp"
+	},
+	{
+		"id": 5,
+		"name": "Thiago Silva",
+		"club": "Chelsea",
+		"salary": 1350000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/Thiago-Emiliano-da-Silva_9047_20-ub-800.webp"
+	},
+	{
+		"id": 6,
+		"name": "Cristiano Ronaldo",
+		"club": "Juventus",
+		"salary": 1820000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/cristiano-ronaldo-dos-santos-aveiro_834_52-ub-800.webp"
+	},
+	{
+		"id": 7,
+		"name": "Zlatan Ibrahimovic",
+		"club": "Ac-Milan",
+		"salary": 6460000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/zlatan-ibrahimovic_1218_280-ub-800.webp"
+	},
+	{
+		"id": 8,
+		"name": "Angel Di Maria",
+		"club": "Paris Saint-Germain",
+		"salary": 6850000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/angel-fabian-di-maria_3942_212-ub-800.webp"
+	},
+	{
+		"id": 9,
+		"name": "Theo Hernandez",
+		"club": "Ac-Milan",
+		"salary": 7530000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/theo-bernard-francois-hernandez_259643_280-ub-800.webp"
+	},
+	{
+		"id": 10,
+		"name": "Lorenzo Insigne",
+		"club": "Napoli",
+		"salary": 9220000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/lorenzo-insigne_17783_281-ub-800.webp"
+	},
+	{
+		"id": 11,
+		"name": "Gerard Pique",
+		"club": "Barcelona",
+		"salary": 1450000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/gerard-pique-bernabeu_814_56-ub-800.webp"
+	},
+	{
+		"id": 12,
+		"name": "Casemiro",
+		"club": "Real Madrid",
+		"salary": 5520000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/carlos-henrique-casimiro_9308_55-ub-800.webp"
+	},
+	{
+		"id": 13,
+		"name": "Philippe Coutinho",
+		"club": "Barcelona",
+		"salary": 2360000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/philippe-coutinho-correia_6080_56-ub-800.webp"
+	},
+	{
+		"id": 14,
+		"name": "Sergio Ramos",
+		"club": "Real Madrid",
+		"salary": 1380000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/sergio-ramos-garcia_973_55-ub-800.webp"
+	},
+	{
+		"id": 15,
+		"name": "Luka Modric",
+		"club": "Real Madrid",
+		"salary": 5520000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/luka-modric_1144_55-ub-800.webp"
+	},
+	{
+		"id": 16,
+		"name": "Antoine Griezmann",
+		"club": "Barcelona",
+		"salary": 7450000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/antoine-griezmann_7023_56-ub-800.webp"
+	},
+	{
+		"id": 17,
+		"name": "Sergio Busquets",
+		"club": "Barcelona",
+		"salary": 1380000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/sergio-busquets-i-burgos_2291_56-ub-800.webp"
+	},
+	{
+		"id": 18,
+		"name": "Karim Benzema",
+		"club": "Real Madrid",
+		"salary": 9580000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/karim-benzema_1128_55-ub-800.webp"
+	},
+	{
+		"id": 19,
+		"name": "Sadio Mané",
+		"club": "Liverpool Fc",
+		"salary": 6550000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/sadio-mane_88763_247-ub-800.webp"
+	},
+	{
+		"id": 20,
+		"name": "Raphael Varane",
+		"club": "Real Madrid",
+		"salary": 5450000,
+		"image": "https://1vs1-7f65.kxcdn.com/img/players/players/raphael-varane_7270_55-ub-800.webp"
+	}]
